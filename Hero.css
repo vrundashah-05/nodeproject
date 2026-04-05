@@ -1,0 +1,25 @@
+.hero {
+  height: 90vh;
+  background: url("https://cdn.sanity.io/images/ocl5w36p/prod5/a7893b14529c1d80a87208d1d83017bb99cb4ae3-3840x1860.jpg?w=1600&auto=format&dpr=2") no-repeat center/cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: hsl(0, 9%, 96%);
+
+}
+
+.hero h1 {
+  font-size: 50px;
+  margin-bottom: 500px;
+  margin-right:750px;
+  
+}
+
+.hero p {
+  font-size: 24px;
+  margin-top: 10px;
+  font-weight: bold;
+  margin-right: 750px;
+  
+}
